@@ -1,4 +1,0 @@
-matplotlib==3.7.1
-pandas==2.0.1
-pip-chill==1.0.3
-scikit-learn==1.2.2
